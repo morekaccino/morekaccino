@@ -32,58 +32,21 @@
 
 <div align="center">
 
-#### Languages
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" /></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" height="45" /></a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" height="45" /></a>&nbsp;
-<a href="https://dart.dev" target="_blank"><img src="https://skillicons.dev/icons?i=dart" height="45" /></a>&nbsp;
-<a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="45" /></a>&nbsp;
-<a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" height="45" /></a>&nbsp;
-<a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" /></a>
+**Languages**
 
-#### Frameworks & Libraries
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="45" /></a>&nbsp;
-<a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" height="45" /></a>&nbsp;
-<a href="https://svelte.dev" target="_blank"><img src="https://skillicons.dev/icons?i=svelte" height="45" /></a>&nbsp;
-<a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" height="45" /></a>&nbsp;
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="45" /></a>&nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="45" /></a>&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" height="45" /></a>&nbsp;
-<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="45" /></a>&nbsp;
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,go,kotlin,java&perline=7" />
 
-#### Cloud, Data & DevOps
-<a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="45" /></a>&nbsp;
-<a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="45" /></a>&nbsp;
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="45" /></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45" /></a>&nbsp;
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" height="45" /></a>&nbsp;
-<a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="45" /></a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45" /></a>&nbsp;
-<a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="45" /></a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="45" /></a>&nbsp;
-<a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" height="45" /></a>&nbsp;
-<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" height="45" /></a>
+**Frameworks & Libraries**
 
-#### AI & Automation
-<a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" height="45" /></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" /></a>&nbsp;
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="45" /></a>&nbsp;
-<a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45" /></a>&nbsp;
-<a href="https://www.elastic.co" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" height="45" /></a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" /></a>&nbsp;
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" height="45" /></a>
+<img src="https://skillicons.dev/icons?i=react,vue,svelte,flutter,django,fastapi,flask,nextjs,tailwind&perline=9" />
 
-</div>
+**Cloud, Data & DevOps**
 
----
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kafka,redis,mongodb,postgres,firebase,graphql,terraform&perline=11" />
 
-### 📊 GitHub Stats
+**Tools & AI**
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=morekaccino&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morekaccino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=git,linux,nodejs,elasticsearch,mysql,sqlite&perline=6" />
 
 </div>
 
@@ -91,31 +54,79 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎨 Hue Puzzle</h3>
+      <p align="center">
+        <a href="https://huepuzzle.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live-huepuzzle.web.app-6366F1?style=flat-square" /></a>
+        <br/>
+        Arrange mosaics of colored tiles into perfectly ordered spectrums. A gentle puzzle game for visual tranquility.
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=go,svelte,postgres,redis&perline=4" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎵 Hear Me Out</h3>
+      <p align="center">
+        <a href="https://hearmeout-1995.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live-hearmeout.web.app-6366F1?style=flat-square" /></a>
+        <br/>
+        Music note flashcard trainer with real-time pitch detection using Pitchy.js.
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=vue,firebase&perline=2" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📿 Divine Insights</h3>
+      <p align="center">
+        <a href="https://divinehafez.com/" target="_blank"><img src="https://img.shields.io/badge/Live-divinehafez.com-6366F1?style=flat-square" /></a>
+        <br/>
+        Spiritual guidance through AI-powered interpretation of classical Persian poetry. <b>1,000+ active users.</b>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=flutter,firebase&perline=2" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📺 n8n-nodes-veo</h3>
+      <p align="center">
+        <a href="https://github.com/morekaccino/n8n-nodes-veo" target="_blank"><img src="https://img.shields.io/badge/GitHub-n8n--nodes--veo-181717?style=flat-square&logo=github" /></a>
+        <br/>
+        Community node for Google Veo video generation in n8n automation workflows.
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=ts&perline=1" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/morekaccino/Hue-Puzzle">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=morekaccino&repo=Hue-Puzzle&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/morekaccino/hear-me-out">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=morekaccino&repo=hear-me-out&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/morekaccino/faal">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=morekaccino&repo=faal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/morekaccino/n8n-nodes-veo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=morekaccino&repo=n8n-nodes-veo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-</a>
-
-</div>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎨 **[Hue Puzzle](https://huepuzzle.web.app/)** | Mosaic color puzzle — arrange tiles into perfect spectrums | Go · Svelte · PostgreSQL · Redis |
-| 🎵 **[Hear Me Out](https://hearmeout-1995.web.app/)** | Music note flashcard trainer with real-time pitch detection | Vue 3 · Firebase · Pitchy.js |
-| 📿 **[Divine Insights](https://divinehafez.com/)** | Persian poetry interpretation — spiritual guidance via AI | Flutter · Firebase · OpenAI |
-| 📺 **[n8n-nodes-veo](https://github.com/morekaccino/n8n-nodes-veo)** | Community node for Google Veo video generation | TypeScript · n8n |
-| 🔐 **[MERKWare](https://github.com/EricMarcantonio/MERKWare)** | Educational ransomware — bypassed 94% of AV on VirusTotal | Python |
-| 💰 **[Budget](https://github.com/morekaccino/Budget)** | Expense tracking & subscription management | Flutter · Firebase · MongoDB |
+<details>
+<summary>🔐 More Projects</summary>
+<br/>
+<table>
+  <tr>
+    <td><b>🔐 MERKWare</b></td>
+    <td>Educational ransomware that bypassed 94% of AV solutions on VirusTotal</td>
+    <td><img src="https://skillicons.dev/icons?i=python&perline=1" height="20" /></td>
+  </tr>
+  <tr>
+    <td><b>💰 Budget</b></td>
+    <td>Expense tracking & subscription management app</td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,firebase,mongodb&perline=3" height="20" /></td>
+  </tr>
+  <tr>
+    <td><b>📚 CyberTech</b></td>
+    <td>AI-driven Learning Management System</td>
+    <td><img src="https://skillicons.dev/icons?i=vue&perline=1" height="20" /></td>
+  </tr>
+  <tr>
+    <td><b>🎹 Chordingly</b></td>
+    <td>Interactive music chord learning app</td>
+    <td><img src="https://skillicons.dev/icons?i=dart,flutter&perline=2" height="20" /></td>
+  </tr>
+</table>
+</details>
 
 ---
 
@@ -132,7 +143,6 @@
 <br/>
 <br/>
 
-<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morekaccino/morekaccino/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morekaccino/morekaccino/main/assets/github-snake.svg" />
