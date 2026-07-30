@@ -2,16 +2,16 @@
 
 <img src="assets/header.svg" width="100%" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Elation+Health;AI+%26+LLM+Architect;Full-Stack+Builder;Open+Source+Contributor;Building+software+that+matters" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/mrkazemi.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mrkazemi.com)
-[![Email](https://img.shields.io/badge/contact@mrkazemi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mrkazemi.com)
-[![LinkedIn](https://img.shields.io/badge/in/moreka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moreka)
-[![Location](https://img.shields.io/badge/Toronto%2C%20ON-1A1A1A?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Toronto,ON)
+<a href="https://mrkazemi.com" target="_blank"><img src="https://img.shields.io/badge/mrkazemi.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:contact@mrkazemi.com"><img src="https://img.shields.io/badge/contact@mrkazemi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/moreka" target="_blank"><img src="https://img.shields.io/badge/in/moreka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://maps.google.com/?q=Toronto,ON" target="_blank"><img src="https://img.shields.io/badge/Toronto%2C%20ON-1A1A1A?style=for-the-badge&logo=google-maps&logoColor=white" /></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 - 🔭 Senior Software Engineer building **AI-driven automation @ Elation Health**
 - 🤖 Architecting with **Claude API · Kafka · Dapr Workflows · LLM Orchestration**
-- 🧠 Master's in AI-focused EE & CS from **York University** (GPA 3.70)
+- 🧠 Master's in AI-focused EE & CS from **York University** (GPA 3.95)
 - 🏗️ Previously scaled systems at **Pine**, **Ourboro**, and **York University**
 - 🎯 Built products with **1,000+ active users** in production
 - 💬 Ask me about **Python, AI/ML systems, or large-scale architecture**
@@ -59,7 +59,7 @@
     <td width="50%">
       <h3 align="center">🎨 Hue Puzzle</h3>
       <p align="center">
-        <a href="https://huepuzzle.web.app/" target="_blank"><img src="https://img.shields.io/badge/Live-huepuzzle.web.app-6366F1?style=flat-square" /></a>
+        <a href="https://hue.kains.ca/" target="_blank"><img src="https://img.shields.io/badge/Live-hue.kains.ca-6366F1?style=flat-square" /></a>
         <br/>
         Arrange mosaics of colored tiles into perfectly ordered spectrums. A gentle puzzle game for visual tranquility.
         <br/><br/>
@@ -127,29 +127,6 @@
   </tr>
 </table>
 </details>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=morekaccino&theme=react-dark&hide_border=true&area=true&custom_title=Last%2030%20Days" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=morekaccino&theme=github-light&hide_border=true&area=true&custom_title=Last%2030%20Days" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morekaccino&theme=react-dark&hide_border=true&area=true&custom_title=Last%2030%20Days" width="100%" />
-</picture>
-
-<br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morekaccino/morekaccino/main/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morekaccino/morekaccino/main/assets/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/morekaccino/morekaccino/main/assets/github-snake.svg" alt="github-snake" width="100%" />
-</picture>
-
-</div>
 
 ---
 
